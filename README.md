@@ -14,7 +14,10 @@ Welcome to my Github Profile !
 <h3>  Miscellaneous </h3>
 
 -  <b>Pronouns</b>: He / Dead 
--  <b>Fun Fact </b>: i am an absolute Menace in videogames and community servers, with more than 110 bans recorded from 2012 to now, Never related to racism, biggotry or toxicity but overall not following certain rules that were too strict. or being too chaotic
+-  <b>Fun Fact </b>: i am an absolute Menace in videogames and community servers, with more than 110 bans recorded from 2012 to now, Never related to racism, biggotry or toxicity but overall not following certain rules that were too strict. or being too chaotic 
+    
+
+    - <sup> <b> disclaimer !</b>:  i've changed my ways and behaviors, this fun fact above is just past even thought i said specifically from 2012 to now, i meant the ban record is updated to this date. but hasn't changed since 2020 actually </sup>
 
 <!---
 LonerDev01/LonerDev01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
