@@ -1,3 +1,5 @@
+> [!CAUTION]
+> this user has been reported to be a silly little  goober
 <h1> 
 <img src="https://file.garden/ZjtoTRfzRw95X-cx/images/yumeko-cat.gif" width=30px height=30px> 
 Welcome to my Github Profile !
@@ -11,6 +13,8 @@ Welcome to my Github Profile !
 -  you can reach me via: 
     - Thru Discord "lonerdev"
 
+<details>
+<summary> Misc Stuff </summary>
 <h3>  Miscellaneous </h3>
 
 -  <b>Pronouns</b>: He / Dead 
@@ -18,7 +22,7 @@ Welcome to my Github Profile !
     
 
     - <sup> <b> disclaimer !</b>:  i've changed my ways and behaviors, this fun fact above is just past even thought i said specifically from 2012 to now, i meant the ban record is updated to this date. but hasn't changed since 2020 actually </sup>
-
+</details>
 <!---
 LonerDev01/LonerDev01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
